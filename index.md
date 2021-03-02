@@ -1,12 +1,12 @@
 ## Primera setmana
-<p>En aquesta setmana he personalitzat el domini, tambe he creat un server i esic en proces de generar un certificat. Ara mostrare pas a pas el que he anat fent:</p>
+<p>En aquesta setmana he personalitzat el domini, tambe he creat un server i estic en proces de generar un certificat. Ara mostrare pas a pas el que he anat fent:</p>
 <h5>Personalitzaci&oacute; del domini.</h5>
 <p><img src="https://img.icons8.com/android/24/000000/domain.png" /></p>
 <p>Anem a la web https://demo.poste.io/admin/login on l&rsquo;usuari &eacute;s admin@poste.io i la contrasenya admin. Li donem a &ldquo;domains&rdquo; Dins posem el nostre nom i cognom junt amb .io al final.
 <p><img src="https://user-images.githubusercontent.com/71402147/109630249-feeefd80-7b44-11eb-9e85-1a509f7a0117.png" alt="Cat"></p>
 Despres entrarem al nostre domini i posarem un correu i amb aquest correu li enviarem un missatge a joan@surfacad.edu Tamb&eacute; enviarem un missatge al nostre compte d&rsquo;institut</p>
-<p>Nosaltres desde la compta de correu que hem creat podem enviar missatges al nostre correu, però del nostre correu al correu carlaasuncion.io no perque no existeix el domini</p>
-
+<p><img src="https://user-images.githubusercontent.com/71402147/109632927-d583a100-7b47-11eb-9d91-5b00f110a743.png" alt="Cat"></p>
+<p>Nosaltres desde el compte de correu que hem creat podem enviar missatges al nostre correu, però del nostre correu al correu carlaasuncion.io no perque no existeix el domini</p>
 <p><img src="https://user-images.githubusercontent.com/71402147/109631329-24303b80-7b46-11eb-8f54-6f3a17e05858.png" alt="Cat"></p>
 <h5>Creaci&oacute; d&rsquo;un server</h5>
 <p><img src="https://img.icons8.com/dusk/64/000000/server.png" /></p>
