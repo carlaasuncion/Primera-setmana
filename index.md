@@ -4,9 +4,9 @@
 <p><img src="https://img.icons8.com/android/24/000000/domain.png" /></p>
 <p>Anem a la web https://demo.poste.io/admin/login on l&rsquo;usuari &eacute;s admin@poste.io i la contrasenya admin. Li donem a &ldquo;domains&rdquo; Dins posem el nostre nom i cognom junt amb .io al final.
 <p><img src="https://user-images.githubusercontent.com/71402147/109630249-feeefd80-7b44-11eb-9e85-1a509f7a0117.png" alt="Cat"></p>
-Despres entrarem al nostre domini i posarem un correu i amb aquest correu li enviarem un missatge a joan@surfacad.edu Tamb&eacute; enviarem un missatge al nostre compte d&rsquo;institut</p>
+Despres entrarem al nostre domini i posarem un correu i amb aquest correu li enviarem un missatge a joan@surfacad.edu Tamb&eacute; enviarem un missatge al nostre compte d&rsquo;institut.</p>
 <p><img src="https://user-images.githubusercontent.com/71402147/109632927-d583a100-7b47-11eb-9d91-5b00f110a743.png" alt="Cat"></p>
-<p>Nosaltres desde el compte de correu que hem creat podem enviar missatges al nostre correu, però del nostre correu al correu carlaasuncion.io no perque no existeix el domini</p>
+<p>Nosaltres desde el compte de correu que hem creat podem enviar missatges al nostre correu, però del nostre correu al correu carlaasuncion.io no perque no existeix el domini.</p>
 <p><img src="https://user-images.githubusercontent.com/71402147/109631329-24303b80-7b46-11eb-8f54-6f3a17e05858.png" alt="Cat"></p>
 <h5>Creaci&oacute; d&rsquo;un server</h5>
 <p><img src="https://img.icons8.com/dusk/64/000000/server.png" /></p>
@@ -15,7 +15,7 @@ Despres entrarem al nostre domini i posarem un correu i amb aquest correu li env
 <p><img src="https://user-images.githubusercontent.com/71402147/109635382-9571ed80-7b4a-11eb-8826-a79fc710e5b3.png" alt="Cat"></p>
 <h5>Instalar Docker </h5>
 <img src="https://img.icons8.com/color/48/000000/docker.png"/>
-<p>Ara el que farem sera obrir mvware en inte</p>
+<p>Ara el que farem sera obrir mvware en inte.</p>
 <p>-sudo apt-get update</p>
 <p>-sudo apt-get install apt-transport-https ca-certificates curl gnupg2 software-properties-common</p>
 <p>-curl -fsSL https://download.docker.com/linux/debian/gpg | sudo apt-key add -</p>
@@ -23,27 +23,28 @@ Despres entrarem al nostre domini i posarem un correu i amb aquest correu li env
 <p>-sudo apt-get update</p>
 <p>-sudo apt-get install docker-ce docker-ce-cli containerd.io</p>
 <p>-sudo systemctl status docker</p>
-<p>Per comprovar que funciona podem fer el sudo systemctl status docker o docker run hello-word per exemple</p>
+<p>Per comprovar que funciona podem fer el sudo systemctl status docker o docker run hello-word per exemple.</p>
 <p><img src="https://user-images.githubusercontent.com/71402147/109636191-93f4f500-7b4b-11eb-848c-3c65448ebe5d.png" alt="Cat"></p>
 <p><img src="https://user-images.githubusercontent.com/71402147/109636040-6019cf80-7b4b-11eb-88c3-b894ed9c5f8a.png" alt="Cat"></p>
 <h5>Creació del server servidor i client</h5>
-<p>Creacio del volum i server del servidor</p>
+<p>Creacio del volum i server del servidor.</p>
 <p>-docker run volum_mail_404</p>
 <p>-docker volume create volum_mail_404</p>
 <p>-docker run -p 443:443 -e TZ=Europe/Andorra -v volum_mail_404:/data --name "error404" -h "error404.io" -t analogic/poste.io</p>
 <p><img src="https://user-images.githubusercontent.com/71402147/109638075-da4b5380-7b4d-11eb-9d46-7d43c84561ba.png" alt="Cat"></p>
-<p>Ara obrirem firefox amb inte</p>
+<p>Ara obrirem firefox amb inte.</p>
 <p>En base posem:</p>
 <p>-ssh -X user1@inte firefox</p>
-<p>Ara en el firefox de inte obrirem el link del server</p>
-<p>He posat en mailserver hostname error404.io</p>
-<p>He posat en administrator email admin@error404.com</p>
+<p>Ara en el firefox de inte obrirem el link del server.</p>
+<p>He posat en mailserver hostname error404.io.</p>
+<p>He posat en administrator email admin@error404.com.</p>
 <p><img src="https://user-images.githubusercontent.com/71402147/109650561-ad06a180-7b5d-11eb-9096-54f23543fc1d.png" alt="Cat"></p>
-<p>Ara li donem a create new email</p>
+<p>Ara li donem a "create new email".</p>
 <p><img src="https://user-images.githubusercontent.com/71402147/109653354-3a97c080-7b61-11eb-9f53-ceb884329198.png" alt="Cat"></p>
-<p>En la URL posem la ip/webmail</p>
-<p>Ens enviarem un correu a nosaltres mateixos</p>
+<p>En la URL posem la ip/webmail.</p>
+<p>Ens enviarem un correu a nosaltres mateixos.</p>
 <p><img src="https://user-images.githubusercontent.com/71402147/109660575-51421580-7b69-11eb-9fd1-9af97fe7e16b.png" alt="Cat"></p>
+<p>Com que no vull fer això molt repetitiu no posare captures perquè ja ho explicat avans que pasa nomes dir que nosaltres desde admin@error404.com si podem enviar missatges pero a nosaltres no hens podran enviar.</p>
 
 <h5>Generaci&oacute; de certificats de servidor i client.</h5>
 <p><img src="https://img.icons8.com/doodle/48/000000/certificate.png" /></p>
