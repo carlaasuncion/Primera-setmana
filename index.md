@@ -54,6 +54,6 @@ Despres entrarem al nostre domini i posarem un correu i amb aquest correu li env
 <p>-wget -O mkcert https://github.com/FiloSottile/mkcert/releases/download/${VER}/mkcert-${VER}-linux-amd64</p>
 <p>-chmod +x mkcert</p>  
 <p>-sudo mv mkcert /usr/local/bin</p> 
-<p>Ara cada cop que fem mkcert nomdelcertificat.org es creara un certificat</p>  
-<p>De moment porto diverses proves per crear el certificat i nose com fer-ho. 😅</p>
+<p>Ara cada cop que fem mkcert nomdelcertificat.org es creara un certificat</p> 
+<h5>Gestió de comptes de domini</h5>
 <div class="well">
