@@ -12,8 +12,10 @@ Despres entrarem al nostre domini i posarem un correu i amb aquest correu li env
 <p><img src="https://img.icons8.com/dusk/64/000000/server.png" /></p>
 <p>-docker volume create volum_mail_server</p>
 <p>-docker run -p 443:443 -e TZ=Europe/Andorra -v volum_mail_server:/data --name "surfmailserver" -h "canvia_aquest_domini_o_se_veiem_lany_vinent.noesbroma" -t analogic/poste.io</p>
+<p><img src="https://user-images.githubusercontent.com/71402147/109635382-9571ed80-7b4a-11eb-8826-a79fc710e5b3.png" alt="Cat"></p>
 <h5>Instalar Docker </h5>
 <img src="https://img.icons8.com/color/48/000000/docker.png"/>
+<p>Ara el que farem sera obrir mvware en inte</p>
 <p>-sudo apt-get update</p>
 <p>-sudo apt-get install apt-transport-https ca-certificates curl gnupg2 software-properties-common</p>
 <p>-curl -fsSL https://download.docker.com/linux/debian/gpg | sudo apt-key add -</p>
