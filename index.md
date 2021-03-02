@@ -29,12 +29,14 @@ Despres entrarem al nostre domini i posarem un correu i amb aquest correu li env
 <h5>Creació del server servidor i client</h5>
 <p>Creacio del volum i server del servidor</p>
 <p>-docker run volum_mail_404</p>
+<p>-docker volume create volum_mail_404</p>
 <p>-docker run -p 443:443 -e TZ=Europe/Andorra -v volum_mail_404:/data --name "error404" -h "error404.io" -t analogic/poste.io</p>
 <p><img src="https://user-images.githubusercontent.com/71402147/109638075-da4b5380-7b4d-11eb-9d46-7d43c84561ba.png" alt="Cat"></p>
 <p>Ara obrirem firefox amb inte</p>
 <p>En base posem:</p>
-<p>-ssh 10.5.2.14 -X firefox</p>
-
+<p>-ssh -X user1@inte firefox</p>
+<p>Ara en el firefox de inte obrirem el link del server</p>
+<p><img src="https://user-images.githubusercontent.com/71402147/109650561-ad06a180-7b5d-11eb-9096-54f23543fc1d.png" alt="Cat"></p>
 <h5>Generaci&oacute; de certificats de servidor i client.</h5>
 <p><img src="https://img.icons8.com/doodle/48/000000/certificate.png" /></p>
 <p>-sudo apt-get update</p>
