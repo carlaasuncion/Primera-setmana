@@ -23,6 +23,9 @@ Despres entrarem al nostre domini i posarem un correu i amb aquest correu li env
 <p>-sudo apt-get update</p>
 <p>-sudo apt-get install docker-ce docker-ce-cli containerd.io</p>
 <p>-sudo systemctl status docker</p>
+<p>Per comprovar que funciona podem fer el sudo systemctl status docker o docker run hello-word per exemple</p>
+<p><img src="https://user-images.githubusercontent.com/71402147/109636191-93f4f500-7b4b-11eb-848c-3c65448ebe5d.png" alt="Cat"></p>
+<p><img src="https://user-images.githubusercontent.com/71402147/109636040-6019cf80-7b4b-11eb-88c3-b894ed9c5f8a.png" alt="Cat"></p>
 <h5>Generaci&oacute; de certificats de servidor i client.</h5>
 <p><img src="https://img.icons8.com/doodle/48/000000/certificate.png" /></p>
 <p>-sudo apt-get update</p>
