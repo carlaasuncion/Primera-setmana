@@ -40,7 +40,8 @@ Despres entrarem al nostre domini i posarem un correu i amb aquest correu li env
 <p>He posat en administrator email admin@error404.com</p>
 <p><img src="https://user-images.githubusercontent.com/71402147/109650561-ad06a180-7b5d-11eb-9096-54f23543fc1d.png" alt="Cat"></p>
 <p>Ara li donem a create new email</p>
-<p><img src="https://user-images.githubusercontent.com/71402147/109652137-ad07a100-7b5f-11eb-945b-8054bdce0335.png" alt="Cat"></p>
+<p><img src="https://user-images.githubusercontent.com/71402147/109653354-3a97c080-7b61-11eb-9f53-ceb884329198.png" alt="Cat"></p>
+
 <h5>Generaci&oacute; de certificats de servidor i client.</h5>
 <p><img src="https://img.icons8.com/doodle/48/000000/certificate.png" /></p>
 <p>-sudo apt-get update</p>
