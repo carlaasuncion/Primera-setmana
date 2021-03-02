@@ -3,11 +3,7 @@
 <h5>Personalitzaci&oacute; del domini.</h5>
 <p><img src="https://img.icons8.com/android/24/000000/domain.png" /></p>
 <p>Anem a la web https://demo.poste.io/admin/login on l&rsquo;usuari &eacute;s admin@poste.io i la contrasenya admin. Li donem a &ldquo;domains&rdquo; Dins posem el nostre nom i cognom junt amb .io al final.
-  
-<p><img src="https://github.com/carlaasuncion/FOTOS/blob/main/Captura%20de%20pantalla%20(4).png" alt="Cat"></p>
 <p><img src="https://user-images.githubusercontent.com/71402147/109630249-feeefd80-7b44-11eb-9e85-1a509f7a0117.png" alt="Cat"></p>
-
-  
 Despres entrarem al nostre domini i posarem un correu i amb aquest correu li enviarem un missatge a joan@surfacad.edu Tamb&eacute; enviarem un missatge al nostre compte d&rsquo;institut</p>
 <h5>Creaci&oacute; d&rsquo;un server</h5>
 <p><img src="https://img.icons8.com/dusk/64/000000/server.png" /></p>
