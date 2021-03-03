@@ -55,5 +55,4 @@ Despres entrarem al nostre domini i posarem un correu i amb aquest correu li env
 <p>-chmod +x mkcert</p>  
 <p>-sudo mv mkcert /usr/local/bin</p> 
 <p>Ara cada cop que fem mkcert nomdelcertificat.org es creara un certificat</p> 
-<h5>Gestió de comptes de domini</h5>
 <div class="well">
