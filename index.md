@@ -48,6 +48,7 @@ Despres entrarem al nostre domini i posarem un correu i amb aquest correu li env
 
 <h5>Generaci&oacute; de certificats de servidor i client.</h5>
 <p><img src="https://img.icons8.com/doodle/48/000000/certificate.png" /></p>
+<p>Obrirem el terminal de base</p>
 <p>-sudo apt-get update</p>
 <p>-sudo apt install wget libnss3-tools</p>
 <div class="well">
