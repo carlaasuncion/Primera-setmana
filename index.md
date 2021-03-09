@@ -50,9 +50,4 @@ Despres entrarem al nostre domini i posarem un correu i amb aquest correu li env
 <p><img src="https://img.icons8.com/doodle/48/000000/certificate.png" /></p>
 <p>-sudo apt-get update</p>
 <p>-sudo apt install wget libnss3-tools</p>
-<p>-export VER="v1.3.0"</p>
-<p>-wget -O mkcert https://github.com/FiloSottile/mkcert/releases/download/${VER}/mkcert-${VER}-linux-amd64</p>
-<p>-chmod +x mkcert</p>  
-<p>-sudo mv mkcert /usr/local/bin</p> 
-<p>Ara cada cop que fem mkcert nomdelcertificat.org es creara un certificat</p> 
 <div class="well">
